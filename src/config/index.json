@@ -27,31 +27,31 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Marseille toiture",
+    "subtitle": "Votre couvreur en Provence",
+    "description": "Avec aujourd'hui plus de 15 ans d'expériences professionnelles, nous sommes spécialisés dans l'entretien, la rénovation et la pose des toitures pour les particuliers, les architectes, les agences immobilières, les syndics de copropriété et les administrations.",
+    "img": "/assets/images/couvreur_provence-marseille.jpg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Appelez-nous",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Email",
+      "href": "mailto:couvreurmarseille@gmail.com?subject=Demande de renseignements Couvreur Marseille"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Artisan couvreur zingueur",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Notre passion : la rénovation et réparation de toitures",
+        "description": "En Provence, le couvreur doit prendre en compte les particularités géographiques et climatiques de la région pour travailler sur les toitures des bâtiments. Les matériaux utilisés varient selon le type de toiture et peuvent inclure des ardoises, des tuiles, du zinc, du cuivre, de l'inox, des gouttières, des chéneaux, des fenêtres de toit, de l'isolation et des éléments ornementaux. Les couvreurs modernes, comme notre entreprise, ont su évoluer en utilisant des matériaux contemporains et des techniques modernes pour réaliser, réparer et entretenir les toitures de manière à assurer une protection efficace contre les intempéries.  Notre équipe de couvreurs hautement qualifiés est spécialisée dans la pratique artisanale traditionnelle de la taille, du façonnage et de la soudure des matériaux. Chacune de ces techniques exige une maîtrise particulière, que nos couvreurs possèdent grâce à leur expérience et leur savoir-faire.",
+        "img": "/assets/images/renovation_toiture_marseille.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Couvreur zingueur à Marseille et dans toutes les Bouches-du-Rhône",
+        "description": " Chez Provence Couvreurs, nous sommes fiers de mettre notre expérience et notre expertise à votre disposition pour la réalisation de tous vos travaux de toiture en Provence. Nous proposons un conseil personnalisé par un technicien expérimenté sur rendez-vous, ainsi que des devis gratuits. Tous nos travaux sont exécutés selon les normes de l'art et sont couverts par une garantie décennale, afin de vous garantir un travail soigné qui répond à vos exigences. Nos atouts incluent notre réactivité en cas d'urgence ainsi que notre professionnalisme. Nous sommes convaincus que notre engagement envers la qualité et la satisfaction de nos clients nous permet de nous distinguer en tant que l'un des meilleurs couvreurs de la région Provence.",
+        "img": "/assets/images/reparation_toiture_marseille.jpg"
       }
     ]
   },
